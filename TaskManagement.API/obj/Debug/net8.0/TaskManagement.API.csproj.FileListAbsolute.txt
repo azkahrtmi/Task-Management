@@ -40,3 +40,4 @@ C:\Users\Asus\Documents\TaskManagementSystem\TaskManagement.API\obj\Debug\net8.0
 C:\Users\Asus\Documents\TaskManagementSystem\TaskManagement.API\obj\Debug\net8.0\TaskManagement.API.pdb
 C:\Users\Asus\Documents\TaskManagementSystem\TaskManagement.API\obj\Debug\net8.0\TaskManagement.API.genruntimeconfig.cache
 C:\Users\Asus\Documents\TaskManagementSystem\TaskManagement.API\obj\Debug\net8.0\ref\TaskManagement.API.dll
+C:\Users\Asus\Documents\TaskManagementSystem\taskmanagement.api\obj\Debug\net8.0\TaskManagement.API.sourcelink.json

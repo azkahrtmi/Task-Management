@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Asus\\Documents\\TaskManagementSystem\\TaskManagement.API\\TaskManagement.API.csproj": {}
+    "C:\\Users\\Asus\\Documents\\TaskManagementSystem\\taskmanagement.api\\TaskManagement.API.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Asus\\Documents\\TaskManagementSystem\\TaskManagement.API\\TaskManagement.API.csproj": {
+    "C:\\Users\\Asus\\Documents\\TaskManagementSystem\\taskmanagement.api\\TaskManagement.API.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Asus\\Documents\\TaskManagementSystem\\TaskManagement.API\\TaskManagement.API.csproj",
+        "projectUniqueName": "C:\\Users\\Asus\\Documents\\TaskManagementSystem\\taskmanagement.api\\TaskManagement.API.csproj",
         "projectName": "TaskManagement.API",
-        "projectPath": "C:\\Users\\Asus\\Documents\\TaskManagementSystem\\TaskManagement.API\\TaskManagement.API.csproj",
+        "projectPath": "C:\\Users\\Asus\\Documents\\TaskManagementSystem\\taskmanagement.api\\TaskManagement.API.csproj",
         "packagesPath": "C:\\Users\\Asus\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Asus\\Documents\\TaskManagementSystem\\TaskManagement.API\\obj\\",
+        "outputPath": "C:\\Users\\Asus\\Documents\\TaskManagementSystem\\taskmanagement.api\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Asus\\AppData\\Roaming\\NuGet\\NuGet.Config"

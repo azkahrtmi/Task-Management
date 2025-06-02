@@ -13,3 +13,4 @@ C:\Users\Asus\Documents\TaskManagementSystem\TaskManagement.Application\obj\Debu
 C:\Users\Asus\Documents\TaskManagementSystem\TaskManagement.Application\obj\Debug\net8.0\refint\TaskManagement.Application.dll
 C:\Users\Asus\Documents\TaskManagementSystem\TaskManagement.Application\obj\Debug\net8.0\TaskManagement.Application.pdb
 C:\Users\Asus\Documents\TaskManagementSystem\TaskManagement.Application\obj\Debug\net8.0\ref\TaskManagement.Application.dll
+C:\Users\Asus\Documents\TaskManagementSystem\TaskManagement.Application\obj\Debug\net8.0\TaskManagement.Application.sourcelink.json

@@ -1,7 +1,7 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Asus\\Documents\\TaskManagementSystem\\taskmanagement.tests\\TaskManagement.Tests.csproj": {}
+    "C:\\Users\\Asus\\Documents\\TaskManagementSystem\\TaskManagement.Tests\\TaskManagement.Tests.csproj": {}
   },
   "projects": {
     "C:\\Users\\Asus\\Documents\\TaskManagementSystem\\TaskManagement.Application\\TaskManagement.Application.csproj": {
@@ -134,14 +134,14 @@
         }
       }
     },
-    "C:\\Users\\Asus\\Documents\\TaskManagementSystem\\taskmanagement.tests\\TaskManagement.Tests.csproj": {
+    "C:\\Users\\Asus\\Documents\\TaskManagementSystem\\TaskManagement.Tests\\TaskManagement.Tests.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Asus\\Documents\\TaskManagementSystem\\taskmanagement.tests\\TaskManagement.Tests.csproj",
+        "projectUniqueName": "C:\\Users\\Asus\\Documents\\TaskManagementSystem\\TaskManagement.Tests\\TaskManagement.Tests.csproj",
         "projectName": "TaskManagement.Tests",
-        "projectPath": "C:\\Users\\Asus\\Documents\\TaskManagementSystem\\taskmanagement.tests\\TaskManagement.Tests.csproj",
+        "projectPath": "C:\\Users\\Asus\\Documents\\TaskManagementSystem\\TaskManagement.Tests\\TaskManagement.Tests.csproj",
         "packagesPath": "C:\\Users\\Asus\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Asus\\Documents\\TaskManagementSystem\\taskmanagement.tests\\obj\\",
+        "outputPath": "C:\\Users\\Asus\\Documents\\TaskManagementSystem\\TaskManagement.Tests\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Asus\\AppData\\Roaming\\NuGet\\NuGet.Config"

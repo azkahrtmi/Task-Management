@@ -13,3 +13,4 @@ C:\Users\Asus\Documents\TaskManagementSystem\TaskManagement.Infrastructure\obj\D
 C:\Users\Asus\Documents\TaskManagementSystem\TaskManagement.Infrastructure\obj\Debug\net8.0\refint\TaskManagement.Infrastructure.dll
 C:\Users\Asus\Documents\TaskManagementSystem\TaskManagement.Infrastructure\obj\Debug\net8.0\TaskManagement.Infrastructure.pdb
 C:\Users\Asus\Documents\TaskManagementSystem\TaskManagement.Infrastructure\obj\Debug\net8.0\ref\TaskManagement.Infrastructure.dll
+C:\Users\Asus\Documents\TaskManagementSystem\TaskManagement.Infrastructure\obj\Debug\net8.0\TaskManagement.Infrastructure.sourcelink.json
